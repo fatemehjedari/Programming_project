@@ -63,3 +63,5 @@ namespace Programming_project
     }
 
 }
+
+console.write
